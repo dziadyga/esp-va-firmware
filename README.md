@@ -1,6 +1,7 @@
 # ESP-VA Firmware
 
-Firmware binaries and versioning for the ESP8266 Volt-Amp Meter OTA updates.
+Firmware binaries and versioning for the Seeed Studio XIAO ESP32-C5 power monitor
+(INA226 + SSD1309 OLED) OTA updates.
 
 ## Directory Structure
 
